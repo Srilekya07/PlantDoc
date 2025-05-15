@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# MacOS / Linux / Windows
+.DS_Store
+Thumbs.db
+
+# VSCode / IDEs
+.vscode/
+.idea/
+
+# Model files and datasets
+*.h5
+*.keras
+*.pb
+*.tflite
+*.ckpt
+checkpoint/
+dataset/
+datasets/
+*.zip
+
+# Uploaded images and outputs
+*.png
+*.jpg
+*.jpeg
+
+# Logs
+*.log
